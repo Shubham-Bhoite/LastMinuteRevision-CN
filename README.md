@@ -27,3 +27,13 @@ MAN or Metropolitan area Network covers a larger area than that covered by a LAN
 
 ## 6) WAN:
 WAN or Wide Area Network is a computer network that extends over a large geographical area, although it might be confined within the bounds of a state or country. WAN has a range of above 50 km. A WAN could be a connection of LAN connecting to other LANs via telephone lines and radio waves and may be limited to an enterprise (a corporation or an organization) or accessible to the public. The technology is high-speed and relatively expensive.
+
+## 7) VPN:
+VPN or the Virtual Private Network is a private WAN (Wide Area Network) built on the internet. It allows the creation of a secured tunnel (protected network) between different networks using the internet (public network). By using the VPN, a client can connect to the organization’s network remotely
+
+## 8) Advantages of VPN:
+1.VPN is used to connect offices in different geographical locations remotely
+
+2.VPN encrypts the internet traffic and disguises the online identity
+
+3.VPN can be also used to bypass geographical locations.
