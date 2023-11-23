@@ -37,3 +37,7 @@ VPN or the Virtual Private Network is a private WAN (Wide Area Network) built on
 2.VPN encrypts the internet traffic and disguises the online identity
 
 3.VPN can be also used to bypass geographical locations.
+
+## 9) IP Address:
+An IP address represents an Internet Protocol address. A unique address that identifies the device over the network. IP addresses are displayed as a set of four digits. The total IP address range ranges from 0.0.0.0 to 255.255.255.255. Example - 192.158.02.252
+
