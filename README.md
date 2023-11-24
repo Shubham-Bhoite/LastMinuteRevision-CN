@@ -41,3 +41,15 @@ VPN or the Virtual Private Network is a private WAN (Wide Area Network) built on
 ## 9) IP Address:
 An IP address represents an Internet Protocol address. A unique address that identifies the device over the network. IP addresses are displayed as a set of four digits. The total IP address range ranges from 0.0.0.0 to 255.255.255.255. Example - 192.158.02.252
 
+## 10) Differences between IPv4 and IPv6:
+#### IPv4
+- IPv4 has a 32-bit address length
+- Address representation of IPv4 is in decimal
+- It Supports Manual and DHCP address configuration
+- In IPv4 Encryption and Authentication facility not provided
+
+#### IPv6
+- IPv6 has a 128-bit address length
+- Address Representation of IPv6 is in hexadecimal
+- It supports Auto and renumbering address configuration
+- In IPv6 Encryption and Authentication are provided
