@@ -61,3 +61,8 @@ An IP address represents an Internet Protocol address. A unique address that ide
 ## 12) DHCP:
 DHCP is the Dynamic Host Configuration Protocol. It is an application layer protocol used to auto-configure devices on IP networks enabling them to use the TCP and UDP-based protocols. The DHCP servers auto-assign the IPs and other network configurations to the devices individually which enables them to communicate over the IP network.
 
+## 13) ARP:
+ARP is Address Resolution Protocol. It is a network-level protocol used to convert the logical address i.e. IP address to the device's physical address i.e. MAC address. It can also be used to get the MAC address of devices when they are trying to communicate over the local network.
+
+## 14) Media Access Control (MAC) Address:
+MAC Addresses are unique 48-bits hardware number of a computer, which is embedded into network card (known as Network Interface Card) during the time of manufacturing. MAC is a type og physical address which is used to communicate or transfer the data from one computer to another computer
