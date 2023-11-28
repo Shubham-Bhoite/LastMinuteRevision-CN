@@ -66,3 +66,6 @@ ARP is Address Resolution Protocol. It is a network-level protocol used to conve
 
 ## 14) Media Access Control (MAC) Address:
 MAC Addresses are unique 48-bits hardware number of a computer, which is embedded into network card (known as Network Interface Card) during the time of manufacturing. MAC is a type og physical address which is used to communicate or transfer the data from one computer to another computer
+
+## 15) Firewall:
+The firewall is a network security system that is used to monitor the incoming and outgoing traffic and blocks the same based on the firewall security policies. It acts as a wall between the internet (public network) and the networking devices (a private network). It is either a hardware device, software program, or a combination of both. It adds a layer of security to the network.
