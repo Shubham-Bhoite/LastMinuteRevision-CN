@@ -76,3 +76,11 @@ It is a compressed version of the OSI model with only 4 layers. It stands for Tr
 - Host-to-Host/Transport Layer
 - Internet Layer
 - Network Access/Link Layer
+
+## 17) Layers in OSI model:
+It is a 7 layer architecture with each layer having specific functionality to perform. All these 7 layers work collaboratively to transmit the data from one person to another across the globe.
+### 1.Physical Layer :
+- It is the lowest layer of the OSI reference model.
+- It is used for the transmission of an unstructured raw bit stream over a physical medium.
+- Physical layer transmits the data either in the form of electrical/optical or mechanical form.
+- The physical layer is mainly used for the physical connection between the devices, and such physical connection can be made by using twisted-pair cable, fibre-optic or wireless transmission media.
