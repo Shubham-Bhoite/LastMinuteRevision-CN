@@ -84,3 +84,10 @@ It is a 7 layer architecture with each layer having specific functionality to pe
 - It is used for the transmission of an unstructured raw bit stream over a physical medium.
 - Physical layer transmits the data either in the form of electrical/optical or mechanical form.
 - The physical layer is mainly used for the physical connection between the devices, and such physical connection can be made by using twisted-pair cable, fibre-optic or wireless transmission media.
+
+### 2.DataLink Layer :
+- It is used for transferring the data from one node to another node.
+- It receives the data from the network layer and converts the data into data frames and then attaches the physical address to these frames which are sent to the physical layer.
+- It enables the error-free transfer of data from one node to another node.
+
+
