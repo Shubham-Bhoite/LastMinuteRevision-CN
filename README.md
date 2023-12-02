@@ -90,4 +90,10 @@ It is a 7 layer architecture with each layer having specific functionality to pe
 - It receives the data from the network layer and converts the data into data frames and then attaches the physical address to these frames which are sent to the physical layer.
 - It enables the error-free transfer of data from one node to another node.
 
+### 3.Network Layer :
+- Network layer converts the logical address into the physical address.
+- The routing concept means it determines the best route for the packet to travel from source to the destination.
+- Functions of Network Layer :
+1) Routing: The network layer determines the best route from source to destination. This function is known as routing.
+2) Logical addressing: The network layer defines the addressing scheme to identify each device uniquely.
 
