@@ -97,3 +97,8 @@ It is a 7 layer architecture with each layer having specific functionality to pe
 1) Routing: The network layer determines the best route from source to destination. This function is known as routing.
 2) Logical addressing: The network layer defines the addressing scheme to identify each device uniquely.
 
+### 4.Transport Layer :
+- It delivers the message through the network and provides error checking so that no error occurs during the transfer of data.
+- It provides two kinds of services:
+1) Connection-oriented transmission: In this transmission, the receiver sends the acknowledgement to the sender after the packet has been received.
+2) Connectionless transmission: In this transmission, the receiver does not send the acknowledgement to the sender.
