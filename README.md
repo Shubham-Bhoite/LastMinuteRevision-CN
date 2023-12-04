@@ -102,3 +102,8 @@ It is a 7 layer architecture with each layer having specific functionality to pe
 - It provides two kinds of services:
 1) Connection-oriented transmission: In this transmission, the receiver sends the acknowledgement to the sender after the packet has been received.
 2) Connectionless transmission: In this transmission, the receiver does not send the acknowledgement to the sender.
+
+### 5.Session Layer :
+- The main responsibility of the session layer is beginning, maintaining and ending the communication between the devices.
+- Session layer also reports the error coming from the upper layers.
+- Session layer establishes and maintains the session between the two users
