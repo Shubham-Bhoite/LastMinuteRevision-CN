@@ -107,3 +107,12 @@ It is a 7 layer architecture with each layer having specific functionality to pe
 - The main responsibility of the session layer is beginning, maintaining and ending the communication between the devices.
 - Session layer also reports the error coming from the upper layers.
 - Session layer establishes and maintains the session between the two users
+
+### 6.Presentation Layer :
+- The presentation layer is also known as a Translation layer as it translates the data from one format to another format.
+- At the sender side, this layer translates the data format used by the application layer to the common format and at the receiver side, this layer translates the common format into a format used by the application layer.
+- Functions of Presentation Layer :
+1) Character code translation
+2) Data conversion
+3) Data compression
+4) Data encryption
