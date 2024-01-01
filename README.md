@@ -121,3 +121,10 @@ It is a 7 layer architecture with each layer having specific functionality to pe
 - Step 1 (SYN) : In the first step, client wants to establish a connection with server, so it sends a segment with SYN(Synchronize Sequence Number) which informs server that client is likely to start communication and with what sequence number it starts segments.
 - Step 2 (SYN + ACK): Server responds to the client request with SYN-ACK signal bits set. Acknowledgement(ACK) signifies the response of segment it received and SYN signifies with what sequence number it is likely to start the segments.
 - Step 3 (ACK) : In the final part client acknowledges the response of server and they both establish a reliable connection with which they will start eh actual data transfer.
+
+## What happens when you hit an URL: (THIS IS THE MOST IMP QUESTION OF ALL)
+- A URL may contain a request to HTML, image file or any other type.
+- If the content of the typed URL is in the cache and fresh, then display the content.
+- Else find the IP address for the domain so that a TCP connection can be set up. Browser does a DNS lookup.
+- Browser needs to know the IP address for a URL so that it can set up a TCP connection. This is why browser needs DNS service. The browser first looks for URL-IP mapping browser cache, then in OS cache. If all caches are empty, then it makes a recursive query to the local DNS server. The local DNS server provides the IP address.
+  
